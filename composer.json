@@ -1,5 +1,5 @@
 {
-  "name": "daemon/module-magedev",
+  "name": "magentodaemon/module-magedev",
   "description": "A Magento 2 module that creates a new page",
   "type": "magento2-module",
   "version": "1.0.0",
@@ -14,7 +14,7 @@
   "autoload": {
     "files": [ "registration.php" ],
     "psr-4": {
-      "Daemon\\Magedev\\": ""
+      "Magentodaemon\\Magedev\\": ""
     }
   }
 }
